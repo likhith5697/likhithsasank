@@ -10,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/likhithsasankuv" target="blank"><img align="center" src="www.linkedin.com/in/likhith-sasank-uppalapati-venkata-222a261b5" alt="likhith sasank uv" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/likhith-sasank-uppalapati-venkata-222a261b5" target="blank"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
