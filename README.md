@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Likhith Sasank U.V. 🔥😎</h1>
 
-<h3 align="center">A passionate software developer with a keen interest in web technologies and data analytics.</h3>
+<h3 align="center">A passionate software developer with a keen interest in Full stack Web technologies who loves to build real world complex applications.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=likhithsasank&label=Profile%20views&color=0e75b6&style=flat" alt="likhithsasank" /> </p>
 
