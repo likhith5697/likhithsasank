@@ -16,8 +16,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-
-    <!-- CSS3 Badge -->
+</p>
+ <!-- CSS3 Badge -->
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
 
     <!-- Java Badge -->
@@ -73,7 +73,6 @@
 
     <!-- Eclipse IDE Badge -->
     <img src="https://img.shields.io/badge/Eclipse_IDE-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse IDE">
-</p>
 
 
 
