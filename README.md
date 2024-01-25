@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Likhith Sasank U.V. 🔥😎</h1>
 
-<h3 align="center">A passionate software developer with a keen interest in Full stack Web technologies who loves to build real world complex applications.</h3>
+<h3 align="center">As a proactive and passionate software enthusiast, I am deeply engaged in the world of web and full-stack development. My academic background and hands-on projects reflect a strong commitment to mastering cutting-edge web technologies. I'm eager to apply my skills in a dynamic internship, where I can contribute to challenging projects while continuing to grow as a developer. With a keen eye for detail and a dedication to innovative problem-solving, I am excited to explore opportunities that allow me to develop and implement impactful web solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=likhithsasank&label=Profile%20views&color=0e75b6&style=flat" alt="likhithsasank" /> </p>
 
