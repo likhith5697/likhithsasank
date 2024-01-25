@@ -21,6 +21,9 @@
 
 <h2> 👨‍🎓🙋‍♂️ About Me : </h2>
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+
 I'm Likhith Sasank U.V., a Computer Science Masters student at the University of Texas at Dallas. I have a strong foundation in software development and a passion for web technologies and data analytics.
 
 <b>Skills:</b><br>
