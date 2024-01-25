@@ -24,8 +24,8 @@
 I'm Likhith Sasank U.V., a Computer Science Masters student at the University of Texas at Dallas. I have a strong foundation in software development and a passion for web technologies and data analytics.
 
 <b>Skills:</b><br>
-<b>Languages:</b> HTML, CSS, Java, Python, SQL, PHP, JavaScript<br>
-<b>Frameworks:</b> React, Angular<br>
-<b>Databases:</b> MySQL, MS SQL<br>
-<b>Tools:</b> Git, JIRA, Postman<br>
-<b>Operating Systems:</b> Windows, Linux<br>
+<b>Languages:</b> HTML, CSS, C, Java, Python, SQL, PHP, JavaScript<br>
+<b>Frameworks:</b> React.js, Angular.js, Ext.js, Spring boot, Spring MVC, Struts, Hibernate<br>
+<b>Databases:</b> MySQL, MS SQL, PhpMyAdmin<br>
+<b>Tools:</b>Git, Bitbucket, NPM, JIRA, Putty, Postman, Agile practices, Tomcat, Maven, Visual Studio code, Eclipse, Mulesoft<br>
+<b>Operating Systems:</b> Windows, Linux, XV6<br>
