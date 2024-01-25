@@ -46,7 +46,7 @@
 
 <h2> 👨‍🎓🙋‍♂️ About Me : </h2>
 
-I'm Likhith Sasank U.V., a Computer Science Masters student at the University of Texas at Dallas. I have a strong foundation in software development and a passion for web technologies and data analytics.
+I'm Likhith Sasank U.V., a Computer Science Masters student at the University of Texas at Dallas. I have a strong foundation in software development and a passion for web technologies.
 
 <b>Skills:</b><br>
 <b>Languages:</b> HTML, CSS, C, Java, Python, SQL, PHP, JavaScript<br>
